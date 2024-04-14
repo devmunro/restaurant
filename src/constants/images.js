@@ -21,6 +21,8 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import savor from '../assets/savor.png';
+import gastro from '../assets/gastro.png';
+
 
 
 export default {
@@ -47,4 +49,5 @@ export default {
   quote,
   gericht,
   savor,
+  gastro,
 };
